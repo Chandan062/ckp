@@ -13,7 +13,7 @@ echo "Installing Hardhat and dotenv..."
 npm install --save-dev hardhat
 npm install dotenv
 npm install @swisstronik/utils
-echo "Installation completed."
+echoechoechoecho "Installation completed."
 
 # Create a Hardhat project
 echo "Creating a Hardhat project..."
